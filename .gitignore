@@ -1,0 +1,21 @@
+# Python-related ignores
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environment
+venv/
+
+# Data files
+data/*.csv
+
+# Jupyter Notebooks
+*.ipynb
+
+# Study Code
+Study Code/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
